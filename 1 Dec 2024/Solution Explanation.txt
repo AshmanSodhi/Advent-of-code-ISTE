@@ -1,0 +1,10 @@
+Solution Explanation
+
+The input file contained of two rows of data , referring to the 2 lists
+first the data was divided into two seperate files based on the columns
+
+The data is then read , converted to integer, stored in a list and then sorted
+
+to find the total distance , the input is read line by line and calculations are done as per given question
+
+to find the similarity , the frequency of data is right list is counted and then each element from left list is chosen and checked for its frquency in right list and calculations are done as per given question. 
