@@ -1,0 +1,7 @@
+for the First part:
+first the report line is checked if its increasing or decreasing , if its neither, then its UNSAFE
+else SAFE and count is increased by 1 given the difference between 1 and 3 between each element
+
+for the Second part:
+we create a new line everytime by removing each element once , if removal of one of the elements results in SAFE report ,
+then count is increased by 1
